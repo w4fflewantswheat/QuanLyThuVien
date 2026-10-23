@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Nhap ho ten: ");
         String hoTen = sc.nextLine();
 
-        System.out.println("Ho ten: " + hoTen);
+        System.out.println("Xin chao " + hoTen + "!");
 
         sc.close();
     }
